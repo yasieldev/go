@@ -1,1 +1,2 @@
-# this is my go's workspace
+# GO program
+this is my go's workspace
